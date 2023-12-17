@@ -1,15 +1,10 @@
 # Resume Builder 
-Capstone Project @ Almabetter
+ Almabetter Capstone Project
 
 ## Introduction
-Resume Building made easy and efficient.
-A Free, Quick and Easy Way to Create Your Professional Resume.
-ResumeBuilder is created to help the users save time in building resumes.            With ResumeBuilder, a versatile resume can be made instantly with a potential from standing out of the crowd to landing the dream job.
-One can select the template best fit for the purpose, upload the good profile picture, 
-fill out the details regarding qualifications and work experience. and save the resume that is instantly built.
-As simple as that. Saving all the time and efforts to make a resume.
-One may also access the resumes pre made at any time with the My Resumes tab.
-May all your dreams come true. All the very best!    
+This Resume Builder is designed keeping in mind the requirements of today's industry.
+ A unique resume, built by our Resume Builder will give you the upper hand in landing any interview. You get a variety of templates to choose from, make some modifications according to your choice and viola.....
+ A brand new resume will be served to you for your professional use. You may save your resume and edit it anytime later.
 
 1. In this project the following are used:
 
@@ -23,8 +18,8 @@ May all your dreams come true. All the very best!
 + JSX
 
 2. Pages
-* Home (select template)
-* Navigated to details filling page 
+* Home
+* Details filling page 
 * My Resumes
 * About us
 
@@ -95,18 +90,13 @@ Folder PATH listing folder src:....
 │       WorkExperience.css
 │       
 └───Utils
-    │   inputChecks.js
-    │   
-    ├───Data
-    │       data.js
-    │       templates.js
     │       
     ├───Images
     │       aboutCV.jpg
-    │       sample_1.jpg
-    │       sample_2.jpg
-    │       sample_3.jpg
-    │       sample_4.jpg
+    │       temp1.jpg
+    │       temp2.PNG
+    │       temp3.PNg
+    │      temp4.PNG
     │       
     └───Templates
             Template.css
@@ -115,13 +105,3 @@ Folder PATH listing folder src:....
             Template3.js
             Template4.js
 
-
-# $ Live link $
-https://resume-builder-react-app.vercel.app/
-
-# $ Walkthrough video link $
-https://youtu.be/YUUyH5yGVv8
-
-
-
-                                    Thanks!...
