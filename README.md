@@ -106,5 +106,5 @@ Folder PATH listing folder src:....
             Template4.js
             
 Live app link is here
-https://rseumebyvarun.netlify.app/
+https://myresumeapp1.netlify.app/
 youtube video link is here
